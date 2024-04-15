@@ -1,2 +1,3 @@
 R. Liu, C. Lei, L. Xie and X. Qin, "A Novel Endmember Bundle Extraction Framework for Capturing Endmember Variability by Dynamic Optimization," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024, Art no. 5505217, doi: 10.1109/TGRS.2024.3354046.
 
+Please cite our papers if you find it useful for your research. @ARTICLE{10399796,author={Liu, Rong and Lei, Cong and Xie, Linfu and Qin, Xiaoqiong},journal={IEEE Transactions on Geoscience and Remote Sensing},title={A Novel Endmember Bundle Extraction Framework for Capturing Endmember Variability by Dynamic Optimization},year={2024},volume={62},pages={1-17},doi={10.1109/TGRS.2024.3354046}}
